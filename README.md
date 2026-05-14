@@ -2,6 +2,7 @@
 
 ## Todo List
 
+```
 topics/
 │
 ├── week-01-python/
@@ -19,6 +20,7 @@ topics/
 │
 ├── projects/
 └── notes/  
+```
 
 ---
 
